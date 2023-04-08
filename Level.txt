@@ -1,0 +1,1 @@
+fourTile,300,1 twoTile,1450,1 twoTile,1400,2 longTile,1700,1 twoTile,1700,1 longTile,1700,1 smallPipe,1600,2 twoTile,1600,2 twoTile,3000,1
